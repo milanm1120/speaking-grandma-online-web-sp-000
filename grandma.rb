@@ -27,7 +27,7 @@ require 'pry'# Write a speak_to_grandma method.
 # puts speak_to_grandma("HELLO")
 # puts speak_to_grandma("I LOVE YOU GRANDMA!")
 
-def speak_to_grandma(phrase)
+def speak_to_grandma(blahhhh)
   if phrase != phrase.upcase
       "HUH?! SPEAK UP, SONNY!"
   end
